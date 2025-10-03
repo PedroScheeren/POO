@@ -29,6 +29,6 @@ public class Exercicio1 {
         p1.geraDados();
         p2.geraDados();
         
-    d}
+    }
     
 }
